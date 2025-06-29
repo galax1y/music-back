@@ -8,7 +8,7 @@ Mostly used this opportunity to learn a little bit about Java Spring Boot
 
 Want to run this project in your own machine? Download and set up your synthesizer on `src/synthesizer` and `MidiToWavConverter` class (hard-coded, because... oh well...).
 
-Download and run the front-end (https://github.com/galax1y/galax1y-music-front)[here].
+Download and run the front-end [Here](https://github.com/galax1y/galax1y-music-front).
 
 Stack/libs:
 Java Spring for the backend
